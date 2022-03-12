@@ -1,7 +1,9 @@
-baseURL = "/"
+baseURL = "https://02infinite.vercel.app/"
 languageCode = "zh-cn"
 title = "jokereven(周靖)"
 theme = "github-style"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
 
 [params]
   author = "ZHOUJING"
