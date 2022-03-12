@@ -16,12 +16,12 @@ draft: false
 
 ### Link
 
-[bilibili](https://space.bilibili.com/2104605936)
+- bilibili: [bilibili](https://space.bilibili.com/2104605936)
 
-[Mastodon](https://hello.2heng.xin/@jokereven) 
+- Mastodon: [Mastodon](https://hello.2heng.xin/@jokereven)
 
-[Twitter](https://twitter.com/cnzjing125) 
+- Twitter: [Twitter](https://twitter.com/cnzjing125)
 
-[Zhihu](https://www.zhihu.com/people/jokereven) 
+- Zhihu: [Zhihu](https://www.zhihu.com/people/jokereven)
 
-[WakaTime](https://wakatime.com/@jokereven)
+- WakaTime: [WakaTime](https://wakatime.com/@jokereven)
