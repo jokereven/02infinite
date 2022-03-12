@@ -1,4 +1,4 @@
-baseURL = "127.0.0.1"
+baseURL = "02infinite.vercel.app"
 languageCode = "zh-cn"
 title = "jokereven(周靖)"
 theme = "github-style"
@@ -26,7 +26,7 @@ theme = "github-style"
     clientSecret = "160dae42f5ab06f36e57b525a1920d519f802844" # Your client secret
     repo = "02infinite" # 您的博客的github地址Repository name
     owner = "jokereven" # 您的GitHub ID
-    admin = ["jokereven"] # 您的GitHub ID
+    admin = "jokereven" # 您的GitHub ID
     id = "location.pathname" # 文章页面的链接地址就是ID
     labels = "gitalk" # Github issue labels. If you used to use Gitment, you can change it
     perPage = 15 # Pagination size, with maximum 100.
