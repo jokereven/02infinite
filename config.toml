@@ -1,4 +1,4 @@
-baseURL = "02infinite.vercel.app"
+baseURL = "/"
 languageCode = "zh-cn"
 title = "jokereven(周靖)"
 theme = "github-style"
